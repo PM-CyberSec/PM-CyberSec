@@ -1,12 +1,15 @@
-### **user@PM-CyberSec:~$ whoami --focus "Blue Team & IR" --distro "Kali_Linux" --gpa 4.0_STABLE**
+![Typing Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=00FFCC&background=1E1E1E00&center=false&vCenter=true&width=1000&lines=user%40PM-CyberSec%3A~%24+whoami+--focus+%22Blue+Team+%26+IR%22+--distro+%22Kali_Linux%22+--gpa+4.0_ROLLING)
 
 # # SYSTEM_OVERRIDE: [PAULA_MAGED]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230052CC.svg?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/paula-maged-04a721249/)
+[![Gmail](https://img.shields.io/badge/Encrypted_Mail-0052CC?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:paulamagedcyber@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230052CC.svg?style=for-the-badge&logo=github&logoColor=00FFCC)](https://github.com/PM-CyberSec/PM-CyberSec)
 
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge&logo=target)
-![Class](https://img.shields.io/badge/CLASS-BLUE_TEAMER-blue?style=for-the-badge&logo=linux-foundation)
-![GPA](https://img.shields.io/badge/GPA-4.0%2F4.3-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FFCC?style=for-the-badge&logo=target&logoColor=0052CC)
+![Class](https://img.shields.io/badge/CLASS-BLUE_TEAMER-0052CC?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-4.0%2F4.3-001F4D?style=for-the-badge&logoColor=00FFCC)
 
-### > Hello, friend. 
+### > Hello, friend. 
 ### > You’re looking for the one who sees the code beneath the noise.
 
 ---
@@ -18,44 +21,51 @@ The world is a series of vulnerabilities. I spend my time finding them before th
 * $ **SPECIALIZATION=** Blue Team Ops. Incident Response. Defensive Architectures.
 * $ **ETHICS_CHECK=** All tools and research conducted in controlled, authorized environments.
 
----
-
-## [ ⚙ ] THE TOOLKIT (DECRYPTED)
+---## [ ⚙ ] THE TOOLKIT (DECRYPTED)
 Tools are just extensions of the mind. Here’s what I’m currently using to keep the world from crashing:
 
-💻 Programming & Scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🛡️ Security & Monitoring
-
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-FF9900?style=for-the-badge&logo=hive&logoColor=white) ![Velociraptor](https://img.shields.io/badge/Velociraptor-4B0082?style=for-the-badge&logo=velociraptor&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-⬢ Infrastructure & Operations
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-▤ Frameworks & Standards
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge) ![NIST IR](https://img.shields.io/badge/NIST_IR-003366?style=for-the-badge)
-
-* **{**
-* **"Primary Logic":** [`Python`, `SQL`, `Bash`],
-* **"Secondary Protocols":** [`Java`, `C++`, `PHP`, `JavaScript`],
-* **"Defense":** [`Wazuh`, `TheHive`, `Velociraptor`, `Suricata`,`Arkime`, `Wireshark`],
-* **"Infrastructure":** [`Docker`, `Ansible`, `Active Directory`],
-* **"Frameworks":** [`MITRE ATT&CK`, `NIST IR`]
-* **}**
+{<br>
+  "💻 Programming & Scripting": [
+    ![Python](https://img.shields.io/badge/Python-001F4D?style=flat-square&logo=python&logoColor=00FFCC),
+    ![SQL](https://img.shields.io/badge/SQL-001F4D?style=flat-square&logo=postgresql&logoColor=00FFCC),
+    ![Bash](https://img.shields.io/badge/Bash-001F4D?style=flat-square&logo=gnu-bash&logoColor=00FFCC),
+    ![Java](https://img.shields.io/badge/Java-001F4D?style=flat-square&logo=openjdk&logoColor=00FFCC),
+    ![C++](https://img.shields.io/badge/C++-001F4D?style=flat-square&logo=c%2B%2B&logoColor=00FFCC),
+    ![PHP](https://img.shields.io/badge/PHP-001F4D?style=flat-square&logo=php&logoColor=00FFCC),
+    ![JavaScript](https://img.shields.io/badge/JavaScript-001F4D?style=flat-square&logo=javascript&logoColor=00FFCC)
+  ],
+<br>
+  "🛡️ Security & Monitoring": [
+    ![Wazuh](https://img.shields.io/badge/Wazuh-001F4D?style=flat-square&logo=wazuh&logoColor=00FFCC),
+    ![TheHive](https://img.shields.io/badge/TheHive-001F4D?style=flat-square&logo=hive&logoColor=00FFCC),
+    ![Velociraptor](https://img.shields.io/badge/Velociraptor-001F4D?style=flat-square&logo=velociraptor&logoColor=00FFCC),
+    ![Suricata](https://img.shields.io/badge/Suricata-001F4D?style=flat-square&logo=suricata&logoColor=00FFCC),
+    ![Wireshark](https://img.shields.io/badge/Wireshark-001F4D?style=flat-square&logo=wireshark&logoColor=00FFCC),
+    ![Kali Linux](https://img.shields.io/badge/Kali_Linux-001F4D?style=flat-square&logo=kali-linux&logoColor=00FFCC)
+  ],
+<br>
+  "⬢ Infrastructure & Operations": [
+    ![Linux](https://img.shields.io/badge/Linux-001F4D?style=flat-square&logo=linux&logoColor=00FFCC),
+    ![Docker](https://img.shields.io/badge/Docker-001F4D?style=flat-square&logo=docker&logoColor=00FFCC),
+    ![Ansible](https://img.shields.io/badge/Ansible-001F4D?style=flat-square&logo=ansible&logoColor=00FFCC),
+    ![Active Directory](https://img.shields.io/badge/Active_Directory-001F4D?style=flat-square&logo=microsoft&logoColor=00FFCC)
+  ],
+<br>
+  "▤ Frameworks & Standards": [
+    ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-001F4D?style=flat-square&logoColor=00FFCC),
+    ![NIST IR](https://img.shields.io/badge/NIST_IR-001F4D?style=flat-square&logoColor=00FFCC)
+  ]<br>
+}
 
 ---
 
 ## [ 💾 ] RECENT BREACHES (PROJECTS)
 
-#### 🛡️ [SOAR_PLATFORM] > [DECRYPT_SOAR_LOGS: Python/FastAPI/Wazuh](https://github.com/CyberNest-SOAR/CyberNest-Soar)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### 🛡️ [SOAR_PLATFORM] > [DECRYPT_SOAR_LOGS: Python/FastAPI/Wazuh](https://github.com/CyberNest-SOAR/CyberNest-Soar)
+![Python](https://img.shields.io/badge/Python-001F4D?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0052CC?style=flat-square&logo=fastapi) ![Wazuh](https://img.shields.io/badge/Wazuh-00FFCC?style=flat-square&logoColor=001F4D) ![Docker](https://img.shields.io/badge/Docker-001F4D?style=flat-square&logo=docker&logoColor=white)
 
-> Me and my team didn't just build a tool; we built an ecosystem. 
-> Integrating SIEM, EDR, and NDR telemetry to automate the response. 
+> Me and my team didn't just build a tool; we built an ecosystem. 
+> Integrating SIEM, EDR, and NDR telemetry to automate the response. 
 > Mean Time To Respond? Minimized.
 
  The Objective: 
@@ -66,10 +76,10 @@ Tools are just extensions of the mind. Here’s what I’m currently using to ke
 >* LLM Log Analysis: Leveraged Large Language Models (LLMs) to classify attack types and reduce "alert fatigue" with confidence-rated summaries.  
 >* Predictive Severity: Implemented machine learning to predict alert log severity scores for optimized prioritization.
 
-#### 🧠 [AI_NETWORK_FORENSICS] > [EXTRACT_EVIDENCE](link-to-repo)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
+#### 🧠 [AI_NETWORK_FORENSICS] > [EXTRACT_EVIDENCE](https://github.com/PM-CyberSec/SUTech-courses-labs/tree/DigitalForensics)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-001F4D?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0052CC?style=flat-square&logo=pandas) ![Suricata](https://img.shields.io/badge/Suricata-00FFCC?style=flat-square&logoColor=001F4D)
 
-> Finding the C2 communication hidden in the PCAP noise. 
+> Finding the C2 communication hidden in the PCAP noise. 
 > Using machine learning to detect what the human eye misses.
 
  The Objective:
@@ -81,7 +91,7 @@ Tools are just extensions of the mind. Here’s what I’m currently using to ke
 
 #### 📦 [THE_LAB_VAULT] > [SEARCH_THE_ARCHIVE](https://github.com/PM-CyberSec/SUTech-courses-labs)
 
-> The university projects. Cryptography tools. Secure storage. 
+> The university projects. Cryptography tools. Secure storage. 
 > Every lab is a lesson in how to stay invisible.
 
 ---
@@ -96,8 +106,8 @@ Tools are just extensions of the mind. Here’s what I’m currently using to ke
 ## [ ✉ ] LEAVE A MESSAGE
 > **Don't follow the white rabbit. Hire it.**
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/paula-maged-04a721249/)
-* **Encrypted Mail:** paulamagedcyber@gmail.com
+* **LinkedIn:** [paula-maged](https://www.linkedin.com/in/paula-maged-04a721249/)
+* **Encrypted Mail:** [paulamagedcyber@gmail.com](mailto:paulamagedcyber@gmail.com)
 * **Org:** IEEE Student Branch (Tech & R&D)
 
 ### > Goodbye, friend.
