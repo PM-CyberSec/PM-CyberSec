@@ -9,6 +9,11 @@
 ![Class](https://img.shields.io/badge/CLASS-BLUE_TEAMER-0052CC?style=for-the-badge&logo=linux-foundation&logoColor=white)
 ![GPA](https://img.shields.io/badge/GPA-4.0%2F4.3-001F4D?style=for-the-badge&logoColor=00FFCC)
 
+<p align="center">
+  <img src="https://portfolio-metrics-eight.vercel.app/api?username=PM-CyberSec&show_icons=true&theme=dark&bg_color=1E1E1E&title_color=00FFCC&text_color=FFFFFF&icon_color=00FFCC&border_color=343434" alt="Paula's GitHub Stats" /><br>
+  <img src="https://portfolio-metrics-eight.vercel.app/api/top-langs/?username=PM-CyberSec&layout=compact&theme=dark&bg_color=1E1E1E&title_color=00FFCC&text_color=FFFFFF&border_color=343434" alt="Top Languages" />
+</p>
+
 ### > Hello, friend. 
 ### > You’re looking for the one who sees the code beneath the noise.
 
