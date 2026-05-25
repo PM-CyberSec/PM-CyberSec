@@ -1,9 +1,9 @@
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=00FFCC&background=1E1E1E00&center=false&vCenter=true&width=1000&lines=user%40PM-CyberSec%3A~%24+whoami+--focus+%22Blue+Team+%26+IR%22+--distro+%22Kali_Linux%22+--gpa+4.0_ROLLING)
 
 # # SYSTEM_OVERRIDE: [PAULA_MAGED]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230052CC.svg?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/paula-maged-04a721249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230052CC.svg?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/paula-maged-04a721249)
 [![Gmail](https://img.shields.io/badge/Encrypted_Mail-0052CC?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:paulamagedcyber@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230052CC.svg?style=for-the-badge&logo=github&logoColor=00FFCC)](https://github.com/PM-CyberSec/PM-CyberSec)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230052CC.svg?style=for-the-badge&logo=github&logoColor=00FFCC)](https://pm-cybersec.github.io/portfolio-site)
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FFCC?style=for-the-badge&logo=target&logoColor=0052CC)
 ![Class](https://img.shields.io/badge/CLASS-BLUE_TEAMER-0052CC?style=for-the-badge&logo=linux-foundation&logoColor=white)
@@ -26,7 +26,8 @@ The world is a series of vulnerabilities. I spend my time finding them before th
 * $ **SPECIALIZATION=** Blue Team Ops. Incident Response. Defensive Architectures.
 * $ **ETHICS_CHECK=** All tools and research conducted in controlled, authorized environments.
 
----## [ ⚙ ] THE TOOLKIT (DECRYPTED)
+---
+## [ ⚙ ] THE TOOLKIT (DECRYPTED)
 Tools are just extensions of the mind. Here’s what I’m currently using to keep the world from crashing:
 
 {<br>
