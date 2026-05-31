@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://portfolio-metrics-eight.vercel.app/api?username=PM-CyberSec&show_icons=true&theme=dark&bg_color=1E1E1E&title_color=00FFCC&text_color=FFFFFF&icon_color=00FFCC&border_color=343434" alt="Paula's GitHub Stats" /><br>
-  <img src="https://portfolio-metrics-eight.vercel.app/api/top-langs/?username=PM-CyberSec&layout=compact&theme=dark&bg_color=1E1E1E&title_color=00FFCC&text_color=FFFFFF&border_color=343434" alt="Top Languages" />
+  <img src="https://portfolio-metrics-eight.vercel.app/api/top-langs/?username=PM-CyberSec&layout=compact&theme=dark&bg_color=1E1E1E&title_color=00FFCC&text_color=FFFFFF&border_color=343434&v=2" alt="Top Languages" />
 </p>
 
 ### > Hello, friend. 
