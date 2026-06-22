@@ -22,7 +22,7 @@
 ## [ ⟁ ] LOG_01: THE SUBJECT
 The world is a series of vulnerabilities. I spend my time finding them before the wrong people do.
 * $ **ACADEMIC_FACADE=** El Sewedy University of Technology.
-* $ **SOCIAL_CREDIT=** 4.0/4.3 CGPA.
+* $ **SOCIAL_CREDIT=** 4.1/4.3 CGPA.
 * $ **SPECIALIZATION=** Blue Team Ops. Incident Response. Defensive Architectures.
 * $ **ETHICS_CHECK=** All tools and research conducted in controlled, authorized environments.
 
