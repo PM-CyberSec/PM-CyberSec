@@ -1,4 +1,4 @@
-![Typing Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=00FFCC&background=1E1E1E00&center=false&vCenter=true&width=1000&lines=user%40PM-CyberSec%3A~%24+whoami+--focus+%22Blue+Team+%26+IR%22+--distro+%22Kali_Linux%22+--gpa+4.0_ROLLING)
+![Typing Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=00FFCC&background=1E1E1E00&center=false&vCenter=true&width=1000&lines=user%40PM-CyberSec%3A~%24+whoami+--focus+%22Blue+Team+%26+IR%22+--distro+%22Kali_Linux%22+--gpa+4.1_ROLLING)
 
 # # SYSTEM_OVERRIDE: [PAULA_MAGED]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230052CC.svg?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/paula-maged-04a721249)
@@ -7,7 +7,7 @@
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FFCC?style=for-the-badge&logo=target&logoColor=0052CC)
 ![Class](https://img.shields.io/badge/CLASS-BLUE_TEAMER-0052CC?style=for-the-badge&logo=linux-foundation&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-4.0%2F4.3-001F4D?style=for-the-badge&logoColor=00FFCC)
+![GPA](https://img.shields.io/badge/GPA-4.1%2F4.3-001F4D?style=for-the-badge&logoColor=00FFCC)
 
 <p align="center">
   <img src="https://portfolio-metrics-eight.vercel.app/api?username=PM-CyberSec&show_icons=true&theme=dark&bg_color=1E1E1E&title_color=00FFCC&text_color=FFFFFF&icon_color=00FFCC&border_color=343434" alt="Paula's GitHub Stats" /><br>
