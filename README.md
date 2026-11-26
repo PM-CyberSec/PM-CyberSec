@@ -63,4 +63,4 @@ University and independent labs covering cryptography, secure storage, system ha
 
 * **In Progress:** CompTIA Security+, Stanford Cryptography I, Cyber Security 101
 * **Training Platforms:** Blue Team Labs Online (BTLO), TryHackMe
-* **Languages:** Arabic (Native), English (Technical), French (Upper-Intermediate, DELF B2)
+* **Languages:** Arabic (Native), English (Professional), French (Upper-Intermediate, DELF B2)
