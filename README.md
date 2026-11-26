@@ -18,7 +18,7 @@ SOC Analyst focused on Incident Response and Detection Engineering, with hands-o
 * **Community:** IEEE Student Branch, Technical & R&D
 * **Ethics:** All research and tooling developed and tested in controlled, authorized lab environments
 * **Training:** Blue Team Labs Online (BTLO), TryHackMe
-* **Languages:** Arabic (Native), English (Professional), French (DELF B2)
+* **Languages:** Arabic (Native), English (Professional), French (Upper-Intermediate, DELF B2)
 
 ---
 
@@ -56,11 +56,3 @@ Machine learning pipeline for detecting command-and-control communication and da
 #### 📦 Lab Archive — Applied Security Labs & Cryptography | [View Archive](https://github.com/PM-CyberSec/SUTech-courses-labs)
 
 University and independent labs covering cryptography, secure storage, system hardening, and defensive tooling, each with documentation and reproducible steps.
-
----
-
-## Certifications & Professional Development
-
-* **In Progress:** CompTIA Security+, Stanford Cryptography I, Cyber Security 101
-* **Training Platforms:** Blue Team Labs Online (BTLO), TryHackMe
-* **Languages:** Arabic (Native), English (Professional), French (Upper-Intermediate, DELF B2)
