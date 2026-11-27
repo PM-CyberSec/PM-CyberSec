@@ -5,7 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230052CC.svg?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/paulamaged)
 [![Gmail](https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:paulamagedcyber@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230052CC.svg?style=for-the-badge&logo=github&logoColor=00FFCC)](https://pm-cybersec.github.io)
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SOC_ROLES-00FFCC?style=for-the-badge&logo=target&logoColor=0052CC)
+[![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SOC_ROLES-00C9A7?style=for-the-badge)
+](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SOC_ROLES-00C9A7?style=for-the-badge&logo=target&logoColor=001F4D&v=2)
 
 ---
 
@@ -36,7 +37,7 @@ SOC Analyst focused on Incident Response and Detection Engineering, with hands-o
 ## Featured Projects
 
 #### 🛡️ SOAR Platform — Automated Incident Response | [CyberNest-SOAR](https://github.com/CyberNest-SOAR/CyberNest-Soar)
-![Python](https://img.shields.io/badge/Python-001F4D?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0052CC?style=flat-square&logo=fastapi) ![Wazuh](https://img.shields.io/badge/Wazuh-00FFCC?style=flat-square&logoColor=001F4D) ![Docker](https://img.shields.io/badge/Docker-001F4D?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-001F4D?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0052CC?style=flat-square&logo=fastapi) ![Wazuh](https://img.shields.io/badge/Wazuh-00C9A7?style=flat-square&logoColor=001F4D) ![Docker](https://img.shields.io/badge/Docker-001F4D?style=flat-square&logo=docker&logoColor=white)
 
 Containerized SOAR ecosystem for SIEM, EDR, and NDR telemetry correlation and automated response.
 
@@ -45,7 +46,7 @@ Containerized SOAR ecosystem for SIEM, EDR, and NDR telemetry correlation and au
 * Added an AI decision engine with LLM-assisted log classification and ML-based severity prediction to cut alert fatigue and prioritize high-risk alerts
 
 #### 🧠 Network Forensics — ML-Based C2 Detection from PCAP | [View Project](https://github.com/PM-CyberSec/SUTech-courses-labs/tree/DigitalForensics)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-001F4D?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0052CC?style=flat-square&logo=pandas) ![Suricata](https://img.shields.io/badge/Suricata-00FFCC?style=flat-square&logoColor=001F4D)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-001F4D?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0052CC?style=flat-square&logo=pandas) ![Suricata](https://img.shields.io/badge/Suricata-00C9A7?style=flat-square&logoColor=001F4D)
 
 Machine learning pipeline for detecting command-and-control communication and data exfiltration in network traffic.
 
